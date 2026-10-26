@@ -1,0 +1,6 @@
+{
+  "name": "Sir Fawwad Physics Portal",
+  "description": "Interactive high school physics portal by Sir Fawwad featuring 3D laboratory simulations, structured lessons, interactive formula visualizers, and practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
